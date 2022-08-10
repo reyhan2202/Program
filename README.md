@@ -1,4 +1,4 @@
 # Program
 program skripsi
-Laporan unutk melanjutkan tulisan
+Laporan untuk melanjutkan tulisan
 bab 2 revisi 
